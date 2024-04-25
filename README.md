@@ -1,3 +1,30 @@
+# Analisis Penggunaan Transjakarta
+
+Untuk meningkatkan pemahaman tentang penggunaan Transjakarta dan meningkatkan efisiensi operasional, perlu dilakukan tiga jenis analisis: analisis perjalanan, analisis pendapatan, dan analisis demografi.
+
+## 1. Analisis Perjalanan
+Analisis perjalanan melibatkan pemahaman mendalam tentang pola perjalanan pengguna Transjakarta. Ini meliputi identifikasi rute yang paling sering digunakan, titik-titik transfer utama, dan waktu perjalanan yang paling umum. Dengan memahami pola perjalanan ini, Transjakarta dapat menyesuaikan jadwal dan rute untuk meningkatkan efisiensi dan kenyamanan pengguna.
+
+**Stakeholder Terkait:**
+- Manajemen Operasional Transjakarta: Untuk merencanakan penjadwalan dan rute bus yang optimal.
+- Pengguna Transjakarta: Untuk memastikan pelayanan yang sesuai dengan kebutuhan dan preferensi mereka.
+
+## 2. Analisis Pendapatan
+Analisis pendapatan penting untuk memahami profil ekonomi pengguna Transjakarta. Ini termasuk tingkat pendapatan mereka, kecenderungan pembelian tiket atau kartu langganan, dan preferensi pembayaran. Analisis ini akan membantu Transjakarta dalam mengatur tarif yang adil dan dapat diakses oleh berbagai lapisan masyarakat, serta mengembangkan program diskon atau insentif bagi pengguna dengan pendapatan rendah.
+
+**Stakeholder Terkait:**
+- Departemen Keuangan Transjakarta: Untuk merencanakan kebijakan tarif.
+- Pengguna Transjakarta: Untuk memastikan tarif yang terjangkau dan berbagai opsi pembayaran yang sesuai.
+
+## 3. Analisis Demografi
+Analisis demografi penting untuk memahami demografi pengguna Transjakarta, seperti usia, jenis kelamin, pekerjaan, dan tempat tinggal. Dengan memahami demografi pengguna, Transjakarta dapat menyesuaikan layanan dan fasilitas yang ditawarkan, misalnya dengan menyediakan layanan tambahan untuk kelompok pengguna tertentu atau meningkatkan aksesibilitas bagi mereka yang tinggal di area tertentu.
+
+**Stakeholder Terkait:**
+- Departemen Layanan Pelanggan Transjakarta: Untuk merencanakan layanan tambahan yang sesuai dengan kebutuhan demografis pengguna.
+- Pengguna Transjakarta: Untuk memastikan aksesibilitas dan kenyamanan layanan yang diberikan.
+
+Dengan kombinasi ketiga analisis ini, Transjakarta akan memiliki pemahaman yang lebih baik tentang kebutuhan dan preferensi pengguna, sehingga memungkinkan mereka untuk meningkatkan layanan secara keseluruhan dan memberikan pengalaman yang lebih baik bagi pengguna.
+
 # Dataset Transjakarta
 
 Dataset ini berisi data transaksi dari layanan transportasi Transjakarta. Data ini mencakup berbagai informasi tentang setiap transaksi, termasuk detail pelanggan, rute perjalanan, waktu, dan jumlah pembayaran.
